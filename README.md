@@ -60,7 +60,7 @@ Aplikasi ini dibuat sebagai bagian dari tugas besar / mini project pengembangan 
 - **Nama**: Wenda Maulana
 - **NIM**: 224443046
 - **Instansi**: Polman Bandung
-- **Jurusan**: ME
+- **Jurusan**: Teknik Otomasi Manufaktur & Mekatronika
 
 ---
 
