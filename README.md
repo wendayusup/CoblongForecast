@@ -49,18 +49,19 @@ Aplikasi ini dibuat sebagai bagian dari tugas besar / mini project pengembangan 
 
 ## 📸 Screenshots
 
-| Splash Screen | Menu Utama | Weather Detail | Planner |
-|---|---|---|---|
-| ![Splash](https://via.placeholder.com/150) | ![Menu](https://via.placeholder.com/150) | ![Weather](https://via.placeholder.com/150) | ![Planner](https://via.placeholder.com/150) |
+| Splash Screen | Menu Utama | Weather Detail | Planner | Profil |
+|---|---|---|---|---|
+| ![Splash](./screenshots/splash.png) | ![Menu](./screenshots/menu.png) | ![Weather](./screenshots/weather.png) | ![Planner](./screenshots/planner.png) | ![Profile](./screenshots/profile.png) |
 
-*(Catatan: Kamu bisa mengganti placeholder image di atas dengan screenshot asli aplikasi kamu)*
+*(Gambar diambil langsung dari aplikasi Coblong Forecast)*
 
 ## 👤 Developer
 
-- **Nama**: Wenda Yusup
-- **NIM**: [Masukkan NIM Kamu Di Sini]
-- **Instansi**: Universitas [Masukkan Nama Kampus Kamu]
+- **Nama**: Wenda Maulana
+- **NIM**: 224443046
+- **Instansi**: Polman Bandung
+- **Jurusan**: ME
 
 ---
 
-Made with ❤️ by Wenda Yusup
+Made with by Wenda Yusup
