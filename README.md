@@ -1,10 +1,10 @@
-# 🌤️ Coblong Forecast
+# Coblong Forecast
 
 **Coblong Forecast** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu warga atau pengunjung di wilayah Coblong (dan sekitarnya) dalam memantau prakiraan cuaca sekaligus merencanakan kegiatan harian mereka melalui fitur *Itinerary Planner*.
 
 Aplikasi ini dibuat sebagai bagian dari tugas besar / mini project pengembangan aplikasi mobile.
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - **Prakiraan Cuaca Real-time**: Pantau kondisi cuaca di berbagai lokasi strategis di Coblong (seperti Dago, Sekeloa, Sadang Serang, dll).
 - **Itinerary Planner (CRUD)**: Kelola rencana perjalanan atau kegiatan harian kamu. Kamu bisa menambah, melihat, mengedit, dan menghapus rencana kegiatan.
@@ -12,7 +12,7 @@ Aplikasi ini dibuat sebagai bagian dari tugas besar / mini project pengembangan 
 - **Profil Pengguna**: Halaman profil yang bersih dengan integrasi penyimpanan data lokal.
 - **Desain Modern & Responsif**: Antarmuka pengguna yang elegan, menggunakan navigasi bawah yang intuitif dan skema warna yang nyaman di mata.
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Frontend**: [Flutter](https://flutter.dev/) (Dart)
 - **Backend**: PHP (Native API)
@@ -20,7 +20,7 @@ Aplikasi ini dibuat sebagai bagian dari tugas besar / mini project pengembangan 
 - **State Management**: Clean Flutter State Management
 - **Networking**: Http Package
 
-## 📦 Cara Instalasi
+## Cara Instalasi
 
 1. **Clone Repository**
    ```bash
@@ -47,7 +47,7 @@ Aplikasi ini dibuat sebagai bagian dari tugas besar / mini project pengembangan 
    flutter run
    ```
 
-## 📸 Screenshots
+## Screenshots
 
 | Splash Screen | Menu Utama | Weather Detail | Planner | Profil |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ Aplikasi ini dibuat sebagai bagian dari tugas besar / mini project pengembangan 
 
 *(Gambar diambil langsung dari aplikasi Coblong Forecast)*
 
-## 👤 Developer
+## Developer
 
 - **Nama**: Wenda Maulana
 - **NIM**: 224443046
