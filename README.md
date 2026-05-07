@@ -1,17 +1,66 @@
-# miniproject_wenda
+# 🌤️ Coblong Forecast
 
-A new Flutter project.
+**Coblong Forecast** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu warga atau pengunjung di wilayah Coblong (dan sekitarnya) dalam memantau prakiraan cuaca sekaligus merencanakan kegiatan harian mereka melalui fitur *Itinerary Planner*.
 
-## Getting Started
+Aplikasi ini dibuat sebagai bagian dari tugas besar / mini project pengembangan aplikasi mobile.
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- **Prakiraan Cuaca Real-time**: Pantau kondisi cuaca di berbagai lokasi strategis di Coblong (seperti Dago, Sekeloa, Sadang Serang, dll).
+- **Itinerary Planner (CRUD)**: Kelola rencana perjalanan atau kegiatan harian kamu. Kamu bisa menambah, melihat, mengedit, dan menghapus rencana kegiatan.
+- **Dynamic API Config**: Pengaturan IP API yang dinamis memudahkan aplikasi untuk terhubung ke server lokal (XAMPP) dengan cepat.
+- **Profil Pengguna**: Halaman profil yang bersih dengan integrasi penyimpanan data lokal.
+- **Desain Modern & Responsif**: Antarmuka pengguna yang elegan, menggunakan navigasi bawah yang intuitif dan skema warna yang nyaman di mata.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Teknologi yang Digunakan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Frontend**: [Flutter](https://flutter.dev/) (Dart)
+- **Backend**: PHP (Native API)
+- **Database**: MySQL
+- **State Management**: Clean Flutter State Management
+- **Networking**: Http Package
+
+## 📦 Cara Instalasi
+
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/wendayusup/CoblongForecast.git
+   ```
+
+2. **Setup Backend**
+   - Pastikan XAMPP kamu menyala (Apache & MySQL).
+   - Masukkan folder API PHP kamu ke dalam `htdocs`.
+   - Import database `.sql` yang telah disediakan.
+
+3. **Install Dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+4. **Konfigurasi IP**
+   - Buka aplikasi, masuk ke menu **Planner**.
+   - Klik ikon settings di pojok kanan atas.
+   - Masukkan IP Address laptop kamu (contoh: `192.168.1.10`).
+
+5. **Run Project**
+   ```bash
+   flutter run
+   ```
+
+## 📸 Screenshots
+
+| Splash Screen | Menu Utama | Weather Detail | Planner |
+|---|---|---|---|
+| ![Splash](https://via.placeholder.com/150) | ![Menu](https://via.placeholder.com/150) | ![Weather](https://via.placeholder.com/150) | ![Planner](https://via.placeholder.com/150) |
+
+*(Catatan: Kamu bisa mengganti placeholder image di atas dengan screenshot asli aplikasi kamu)*
+
+## 👤 Developer
+
+- **Nama**: Wenda Yusup
+- **NIM**: [Masukkan NIM Kamu Di Sini]
+- **Instansi**: Universitas [Masukkan Nama Kampus Kamu]
+
+---
+
+Made with ❤️ by Wenda Yusup
